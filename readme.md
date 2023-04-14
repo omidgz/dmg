@@ -20,5 +20,5 @@ vue serve
 
 then visit `localhost:8081`
 
-I wanted to use selenium to test by a browser. But time is limited
-Go could be better structured and could be unit tested. Also error handling could be implemented better. I a real life solution I would concider testing at the time of implementing the methods or even better write some test before implementing them.
+I wanted to use selenium to test by a browser. But time was limited.
+Go could be better structured and could be unit tested. Also error handling could be implemented better in app and api. In a real life solution I would concider testing at the time of implementing the methods or even better write some test before implementing them.
